@@ -1,0 +1,18 @@
+[
+    {
+        "title": "hhh",
+        "author": "jjj",
+        "year": 2023,
+        "genre": "",
+        "read": false,
+        "date_added": "2025-03-18 14:17:55"
+    },
+    {
+        "title": "hhhmmm",
+        "author": "jjj",
+        "year": 2023,
+        "genre": "",
+        "read": true,
+        "date_added": "2025-03-18 14:18:11"
+    }
+]
